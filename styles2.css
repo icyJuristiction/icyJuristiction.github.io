@@ -2,4 +2,5 @@ body {
     background: azure;
     color: tan;
     background-image: url("https://media0.giphy.com/media/U1rlk8zdcAwbm/giphy.gif");
+    cursor: crosshair;
 }
